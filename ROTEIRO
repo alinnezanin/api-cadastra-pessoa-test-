@@ -1,0 +1,26 @@
+Aula 1 roteiro:
+
+GET - PUT - POST - DELETE Talend API (API-DE-TAREFAS)
+- Hancrest
+- Get primeiro nivel (ValidaApiWcaquino)
+-> Exercicios Get e Hancrest (ValidaApiWcaquino)
+
+Aula 2 roteiro:
+
+-> GET JSON Segundo Nivel (ValidaApiWcaquino)
+-> GET JSON Lista (ValidaApiWcaquino)
+-> GET JSON Lista Raiz (ValidaApiWcaquino)
+-> POST (validaApiTarefas)
+-> PUT (ValidaApiWcaquino)
+-> DELETE (ValidaApiWcaquino)
+
+Aula 3 roteiro:
+
+-> GET API-DE-TARES
+-> GER REGRESS
+--> EXERICIO GET PERS
+--> POST REGRESS
+-->PUT REGRESS
+--> DELETE REGRES
+-->DATAPROVIDER
+--> EXERCICIO POST, PUT, DELETE API-DE-TAREFAS (Para corrigir na aula 4)
